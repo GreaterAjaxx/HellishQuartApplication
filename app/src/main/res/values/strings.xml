@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">HellishQuartApp</string>
+    <string name="hellish_quart_logo">Hellish Quart Logo</string>
+    <string name="characters">Characters</string>
+    <string name="guides">Guides</string>
+    <string name="settings">Settings</string>
+    <string name="add_combo">Add Combo</string>
+
+    <string name="menu_settings">Settings</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_cancel">Cancel</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome! "</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="username">Username</string>
+    <string name="combos">Combos</string>
+    <string name="select">SELECT</string>
+    <string name="liked">liked</string>
+    <string name="names">Names</string>
+    <string name="parchment">Parchment</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="sync_header">Sync</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync combos periodically</string>
+    <string name="text_view_inputs">Inputs</string>
+    <string name="text_view_title">Title</string>
+    <string name="whos_name">Name</string>
+    <string name="edit_text_inputs">Inputs</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="character_entries">
+        <item>Isabella</item>
+        <item>Gedeon</item>
+        <item>Jacek</item>
+        <item>Barabasz</item>
+        <item>Marie</item>
+    </string-array>
+
+    <string-array name="character_values">
+        <item>Isabella</item>
+        <item>Gedeon</item>
+        <item>Jacek</item>
+        <item>Barabasz</item>
+        <item>Marie</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985866901782",
+    "project_id": "hellishquartapp",
+    "storage_bucket": "hellishquartapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985866901782:android:b277b5d2350bd8be905837",
+        "android_client_info": {
+          "package_name": "com.example.hellishquartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985866901782-2prmjucm072cv28re6eubduc8tim9vjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBII96-zeIrDaq7_XTn8-2Ql-j6iExUO7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985866901782-2prmjucm072cv28re6eubduc8tim9vjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
